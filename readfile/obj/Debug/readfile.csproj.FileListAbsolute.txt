@@ -1,0 +1,6 @@
+c:\users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\readfile.exe.config
+c:\users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\readfile.exe
+c:\users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\readfile.pdb
+c:\users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\obj\Debug\readfile.csprojResolveAssemblyReference.cache
+c:\users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\obj\Debug\readfile.exe
+c:\users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\obj\Debug\readfile.pdb

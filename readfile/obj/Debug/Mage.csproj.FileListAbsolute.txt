@@ -1,0 +1,10 @@
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\obj\Debug\Mage.csprojResolveAssemblyReference.cache
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\obj\Debug\readfile.exe
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\obj\Debug\readfile.pdb
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\readfile.exe.config
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\readfile.exe
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\readfile.pdb
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\Model.dll
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\Public.dll
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\Model.pdb
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\readfile\bin\Debug\Public.pdb

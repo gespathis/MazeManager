@@ -1,0 +1,9 @@
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\Model\bin\Debug\Model.dll
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\Model\bin\Debug\Model.pdb
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\Model\obj\Debug\Model.dll
+C:\Users\gerasimos.spathis\documents\visual studio 2015\Projects\readfile\Model\obj\Debug\Model.pdb
+C:\Users\gerasimos.spathis\Documents\Visual Studio 2015\Projects\readfile\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\gerasimos.spathis\Documents\Visual Studio 2015\Projects\MazeManager\Model\bin\Debug\Model.dll
+C:\Users\gerasimos.spathis\Documents\Visual Studio 2015\Projects\MazeManager\Model\bin\Debug\Model.pdb
+C:\Users\gerasimos.spathis\Documents\Visual Studio 2015\Projects\MazeManager\Model\obj\Debug\Model.dll
+C:\Users\gerasimos.spathis\Documents\Visual Studio 2015\Projects\MazeManager\Model\obj\Debug\Model.pdb
